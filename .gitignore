@@ -7,3 +7,6 @@ part2
 *.jar
 *.hi
 *.o
+
+dist/
+node_modules/
